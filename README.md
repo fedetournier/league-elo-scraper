@@ -1,6 +1,6 @@
 # League Elo Scraper
 
-Web scraper uses that Selenium for Python to extract player information from League of Legends on the League of Graphs website. It retrieves data about their league, division, league points (LP), winrate, and other details, then sorts them according to their ELO.
+Web scraper that uses Selenium for Python to extract player information from League of Legends on the League of Graphs website. It retrieves data about their league, division, league points (LP), winrate, and other details, then sorts them according to their ELO.
 
 ## Features
 - Automatically extracts player information from League of Graphs.
