@@ -9,7 +9,7 @@ player_list = [
     "Hide on bush-KR1", "어리고싶다-KR1", "Oner-KR222", "T1 Gumayusi-KR1",
     "역천괴-Ker10", "T1 Smash-KR3", "JUGKlNG-kr", "허거덩-0303"
 ] # Format: name-TAG
-##################################################
+###########################################
 
 # Converts the player's rank and division into a numeric value for sorting
 def elo_to_int(player):
