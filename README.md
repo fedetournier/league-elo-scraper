@@ -12,7 +12,7 @@ Web scraper that uses Selenium for Python to extract player information from Lea
 - Python 3.
 - Microsoft Edge installed along with the corresponding driver (msedgedriver), both in the same version. You can download it from:
 
-- [Microsoft Edge WebDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
+  [Microsoft Edge WebDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
 
 Make sure to extract the file into the same directory as `script.py`.
 
