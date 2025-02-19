@@ -9,13 +9,8 @@ Web scraper that uses Selenium for Python to extract player information from Lea
 - Uses Selenium for scraping automation.
 
 ## Requirements
-Before running the script, make sure you have installed the following packages:
-
-```sh
-pip install selenium
-```
-
-Additionally, you need to have Microsoft Edge installed along with the corresponding driver (msedgedriver), both in the same version. You can download it from:
+- Python 3.
+- Microsoft Edge installed along with the corresponding driver (msedgedriver), both in the same version. You can download it from:
 
 - [Microsoft Edge WebDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
 
