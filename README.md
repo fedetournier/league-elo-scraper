@@ -22,20 +22,21 @@ Make sure to extract the file into the same directory as `script.py`.
    git clone https://github.com/fedetournier/league-elo-scraper.git
    cd league-elo-scraper
    ```
-2. Install the required dependencies and msedgedriver in the folder:
+3. Extract msedgedriver in the folder league-elo-scraper.
+4. Install the required dependencies:
    ```sh
    pip install selenium
    ```
-3. Modify the player list and their server in `script.py` with the correct format:
+5. Modify the player list and their server in `script.py` with the correct format:
    ```sh
    server = "" # las, lan, kr, euw, na, ...
    player_list = [""] # Format is name-TAG
    ```
-4. Run the script:
+6. Run the script:
    ```sh
    python script.py
    ```
-5. The result will be displayed in the console with players sorted by their ELO. It should be something like:
+7. The result will be displayed in the console with players sorted by their ELO. It should be something like:
 
 ```
 ========================================================================================================================
